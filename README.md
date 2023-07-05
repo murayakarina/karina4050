@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karina4050
-- 👀 I’m interested in software testing
-- 🌱 I’m currently learning test automation 
+- 👀 I’m a software engineer in test
+- 🌱 I’m currently at working at ONA Kenya ltd
 - 💞️ I’m looking to collaborate on personal projects on flutter,kotlin and java
 - 📫 How to reach me bkarinamuraya@gmail.com
 
