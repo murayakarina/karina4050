@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @karina4050
+- 👋 Hi, I’m @murayakarina
 - 👀 I’m a software engineer in test
 - 🌱 I’m currently at working at ONA Kenya ltd
 - 💞️ I’m looking to collaborate on personal projects on flutter,kotlin and java
